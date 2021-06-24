@@ -1,0 +1,32 @@
+.container{
+    margin-bottom: 50px;
+}
+.bg-image{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+.buy-now{
+   background-color: rgb(1, 0, 43);
+   border: none;
+   border-radius: 5px;
+   padding: 9px 25px;
+   cursor: pointer;
+   color: #fff;
+}
+.card{
+    border: none;
+    text-align: center;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.col-6 img{
+    width: 100%;
+}
+.box-shadow{
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 3px 3px 60px rgb(209, 206, 212);
+}
